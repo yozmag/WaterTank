@@ -1,0 +1,23 @@
+{
+ "root":{
+   "mqtt_server":".messaging.internetofthings.ibmcloud.com",
+   "mqtt_port":1883,
+   "mqtt_user":"use-token-auth",
+   "mqtt_pwd":"",
+   "ibmcloud":".messaging.internetofthings.ibmcloud.com",
+   "ibmorgid":"",
+   "ibmclientid":"",
+   "device_type":"",
+   "device_id":"",
+   "token":"",
+   "ssid":"NOS-WIFI",
+   "password":"",
+   "publishinterval":60000
+
+
+  }
+
+
+
+
+}
